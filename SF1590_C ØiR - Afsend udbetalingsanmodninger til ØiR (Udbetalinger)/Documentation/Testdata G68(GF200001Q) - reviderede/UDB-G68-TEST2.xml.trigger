@@ -1,0 +1,20 @@
+<ns:Trigger xmlns:ns="http://serviceplatformen.dk/xml/wsdl/soap11/SFTP/1/types">
+    <FileDescriptor>
+        <FileName>UDB-G68-TEST2.xml</FileName>
+        <SizeInBytes>3935</SizeInBytes>
+        <Sender>Testtool02</Sender>
+        <SendersFileId>Udbetalingsanmodning</SendersFileId>
+        <Recipients>SP_OIR_TRANSFER</Recipients>
+    </FileDescriptor>
+    <FileContentDescriptor>
+        <SFTPDynamicRoutingInfo>
+            <InfRef>SF1590_C_IF02</InfRef>
+            <SenderIt-system>6c0e4e7e-2128-4e0d-a074-fb0eebd7e133</SenderIt-system>
+            <SenderAuthority>urn:oio:cvr-nr:29188416</SenderAuthority>
+            <TransactionId>42ea3814-7eb7-4bbc-9411-f31857356285</TransactionId>
+            <SenderTimestamp>2016-12-12T08:49:00+02:00</SenderTimestamp>
+	    <RecipientIt-system></RecipientIt-system>
+            <RecipientAuthority>urn:oio:cvr-nr:29188416</RecipientAuthority>
+        </SFTPDynamicRoutingInfo>
+    </FileContentDescriptor>
+</ns:Trigger>
