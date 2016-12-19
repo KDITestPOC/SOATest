@@ -1,0 +1,9 @@
+<ns2:FileMetadata xmlns:ns2="http://serviceplatformen.dk/xml/wsdl/soap11/SFTP/1/types">
+    <FileTransferUUID>e8ed4ab0-bc46-429c-a25b-e8ab4f595ff8</FileTransferUUID>
+    <FileDescriptor>
+        <FileName>UDB-G68-TEST1-HIT.xml.oir.sftpreceipt</FileName>
+        <SizeInBytes>549</SizeInBytes>
+        <Sender>SP_OIR_TRANSFER</Sender>
+        <Recipients>Testtool02</Recipients>
+    </FileDescriptor>
+</ns2:FileMetadata>

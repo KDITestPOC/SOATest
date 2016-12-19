@@ -1,0 +1,7 @@
+<ns2:TechnicalReceipt xmlns:ns2="http://serviceplatformen.dk/xml/wsdl/soap11/SFTP/1/types">
+    <FileTransferUUID>a694dfb1-9f96-4dca-8970-f35f69c3ea4f</FileTransferUUID>
+    <SendersFileId>Finanspostering - Finansbilag</SendersFileId>
+    <Receipt>
+        <Message>SUCCESS</Message>
+    </Receipt>
+</ns2:TechnicalReceipt>

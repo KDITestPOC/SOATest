@@ -1,0 +1,8 @@
+<ns2:TechnicalReceipt xmlns:ns2="http://serviceplatformen.dk/xml/wsdl/soap11/SFTP/1/types">
+    <FileTransferUUID>08155373-f697-4b20-85eb-aa6fab620db0</FileTransferUUID>
+    <ErrorMessage>
+        <ErrorCode>12</ErrorCode>
+        <ErrorCodeDescription>RejectedFileNotFound</ErrorCodeDescription>
+        <ErrorDescription>File KY_Finanspostering - Finansbilag_6ede2e65-3135-41bb-846f-e2466329f5f4.xml does not exist</ErrorDescription>
+    </ErrorMessage>
+</ns2:TechnicalReceipt>

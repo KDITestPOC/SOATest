@@ -1,0 +1,12 @@
+<ns2:TechnicalReceiptType xmlns:ns2="##default">
+    <FileTransferUUID>32d534ba-92fd-4c82-85aa-7e887408b5f5</FileTransferUUID>
+    <SendersFileId>Udbetalingsanmodning</SendersFileId>
+    <Receipt>
+        <Message>ERROR</Message>
+    </Receipt>
+    <ErrorMessage>
+        <ErrorCode>213</ErrorCode>
+        <ErrorCodeDescription>UnknownSenderItSystemFound</ErrorCodeDescription>
+        <ErrorDescription>The SenderIT-system '6c0e4e7e-2128-4e0d-a074-fb0eebd7e133' could not be found</ErrorDescription>
+    </ErrorMessage>
+</ns2:TechnicalReceiptType>
